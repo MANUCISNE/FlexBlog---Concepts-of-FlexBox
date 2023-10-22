@@ -86,6 +86,10 @@ img {
   padding: 10px;
 }
 
+.menu-nav a:hover{
+	color: #122ab2;
+}
+
 /*Introdução*/
 
 .introducao {
